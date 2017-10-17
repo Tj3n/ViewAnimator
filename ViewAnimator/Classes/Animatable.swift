@@ -90,10 +90,11 @@ extension UICollectionView: Animatable {
     }
 }
 
-// MARK: - UIStackView
-extension UIStackView: Animatable {
+//// MARK: - UIStackView
+//extension UIStackView: Animatable {
+//
+//    public var views: [UIView] {
+//        return arrangedSubviews
+//    }
+//}
 
-    public var views: [UIView] {
-        return arrangedSubviews
-    }
-}

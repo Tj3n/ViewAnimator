@@ -256,12 +256,12 @@
 				TargetAttributes = {
 					607FACCF1AFB9204008FA782 = {
 						CreatedOnToolsVersion = 6.3.1;
-						DevelopmentTeam = 8PC4X7QUY9;
+						DevelopmentTeam = D44Q8LH786;
 						LastSwiftMigration = 0910;
 					};
 					607FACE41AFB9204008FA782 = {
 						CreatedOnToolsVersion = 6.3.1;
-						DevelopmentTeam = 8PC4X7QUY9;
+						DevelopmentTeam = D44Q8LH786;
 						LastSwiftMigration = 0910;
 						TestTargetID = 607FACCF1AFB9204008FA782;
 					};
@@ -504,7 +504,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -550,7 +550,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
@@ -563,7 +563,7 @@
 			baseConfigurationReference = 693B8CAD1F053E1C0C88C3FF /* Pods-ViewAnimator_Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 8PC4X7QUY9;
+				DEVELOPMENT_TEAM = D44Q8LH786;
 				INFOPLIST_FILE = ViewAnimator/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MODULE_NAME = ExampleApp;
@@ -579,7 +579,7 @@
 			baseConfigurationReference = 45628CDF88B6B241FD307F13 /* Pods-ViewAnimator_Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 8PC4X7QUY9;
+				DEVELOPMENT_TEAM = D44Q8LH786;
 				INFOPLIST_FILE = ViewAnimator/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MODULE_NAME = ExampleApp;
@@ -594,7 +594,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 0D3F4596F21D3A9BA6B75C98 /* Pods-ViewAnimator_Tests.debug.xcconfig */;
 			buildSettings = {
-				DEVELOPMENT_TEAM = 8PC4X7QUY9;
+				DEVELOPMENT_TEAM = D44Q8LH786;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
@@ -616,7 +616,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = C0288BA4824DA606EF78ECED /* Pods-ViewAnimator_Tests.release.xcconfig */;
 			buildSettings = {
-				DEVELOPMENT_TEAM = 8PC4X7QUY9;
+				DEVELOPMENT_TEAM = D44Q8LH786;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
